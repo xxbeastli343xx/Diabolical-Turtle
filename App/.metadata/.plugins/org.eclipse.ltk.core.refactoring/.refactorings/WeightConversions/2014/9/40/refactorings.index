@@ -1,0 +1,12 @@
+1412049691761	Extracts string 'null' into R.string.titleText
+1412049817828	Extracts string 'null' into R.string.creatorName
+1412049967702	Rename field 'textView2'
+1412050062325	Rename field 'textView1'
+1412050364347	Rename field 'textView2'
+1412050505469	Extracts string 'null' into R.string.weight
+1412050799611	Extracts string 'null' into R.string.checkMetrics
+1412052094659	Rename field 'Layer'
+1412052104185	Rename field 'someRandomAssLayer'
+1412052145696	Extracts string 'null' into R.string.weightPrompt
+1412052210987	Extracts string 'null' into R.string.weightPromptHint
+1412052370334	Extracts string 'null' into R.string.versionAlpha

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Weight Conversions "</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="titleText">Space Weight Conversions</string>
+    <string name="creatorName">by COMMAFLARE</string>
+    <string name="weight">Weight</string>
+
+</resources>
